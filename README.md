@@ -2,7 +2,11 @@
 
 Public downloads for the Scurry Capture Mac beta. Application source is maintained separately.
 
-The first download will appear under Releases after Developer ID signing and Apple notarization are complete. There is no published beta artifact yet.
+[Download Scurry Capture 0.2.0 beta 1 (build 3)](https://github.com/emmanuj/scurry-capture-releases/releases/download/v0.2.0-beta.1/Scurry-Capture-0.2.0-3-universal.zip)
+
+Signed with Developer ID Application, notarized by Apple, and stapled. Both Apple Silicon and Intel are included.
+
+[Release notes, checksum, and signing evidence](https://github.com/emmanuj/scurry-capture-releases/releases/tag/v0.2.0-beta.1)
 
 ## Requirements
 
