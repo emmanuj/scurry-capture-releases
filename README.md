@@ -2,11 +2,11 @@
 
 Public downloads for the Scurry Capture Mac beta. Application source is maintained separately.
 
-[Download Scurry Capture 0.2.0 beta 1 (build 3)](https://github.com/emmanuj/scurry-capture-releases/releases/download/v0.2.0-beta.1/Scurry-Capture-0.2.0-3-universal.zip)
+[Download Scurry Capture 0.2.1 beta 1 (build 4)](https://github.com/emmanuj/scurry-capture-releases/releases/download/v0.2.1-beta.1/Scurry-Capture-0.2.1-4-universal.zip)
 
 Signed with Developer ID Application, notarized by Apple, and stapled. Both Apple Silicon and Intel are included.
 
-[Release notes, checksum, and signing evidence](https://github.com/emmanuj/scurry-capture-releases/releases/tag/v0.2.0-beta.1)
+[Release notes, checksum, and signing evidence](https://github.com/emmanuj/scurry-capture-releases/releases/tag/v0.2.1-beta.1)
 
 ## Requirements
 
